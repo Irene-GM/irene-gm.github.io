@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![img](https://photos.google.com/u/1/photo/AF1QipMmZoBYnwTG5B8wlmM-iS-KCJvT2yFr0fQeSyVH)
+![img](https://drive.google.com/open?id=10biS1yGNTNbXlNB7rhpTXi5CUKSC8f_u)
 
 Data Scientist. Now working at the Dutch Met Office. 
 
