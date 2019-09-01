@@ -10,6 +10,5 @@ If you are interested in the publications associated to my career, check my [Goo
 
 (site in permanent construction :-) )
 
-```
-![image description](https://drive.google.com/file/d/10biS1yGNTNbXlNB7rhpTXi5CUKSC8f_u/view?usp=sharing)
-```
+![image](https://drive.google.com/uc?export=view&id=10biS1yGNTNbXlNB7rhpTXi5CUKSC8f_u)
+
