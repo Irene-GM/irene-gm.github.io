@@ -34,5 +34,5 @@ Taking a closer look to the plots, you can see that at the end of the SPI curve,
 
 You might wonder why a drought monitor is important. Decision makers who are aware on the drought levels at the national scale can promote actions to mitigate its damaging effects. For example, drought is related with the capacity of ensuring water supply to citizens, the salinization of the ecosystems, soil erosion, and naturally, affects crop production. Thus, a drought monitor could help at better planning water management, ecological or agricultural practices.
 
-If you want to know more about the technical part (data analysis, technologies used), you can continue your reading in the second part of this post. 
+If you want to know more about the technical part (data analysis, technologies used), you can continue your reading in the [second part of this post](https://irenegarciamarti.com/nods/climate%20services/drought%20monitoring/2019/09/01/Developing-a-Drought-Monitor-prototype-for-the-Netherlands-technnicalities.html). 
 

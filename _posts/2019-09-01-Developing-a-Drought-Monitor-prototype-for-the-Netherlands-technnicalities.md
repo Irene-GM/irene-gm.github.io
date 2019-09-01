@@ -6,7 +6,7 @@ categories: [nods, climate services, drought monitoring]
 tags: [drought, precipitation, data analysis, adaguc, aws]
 ---
 
-If you reached here by chance, just be sure of reading the first part of the post first, in which we explain why a Drought Monitor is necessary. In this second part, you can find a longer description of the technical aspects of the development of this prototype. 
+If you reached here by chance, just be sure of reading the [first part of the post](https://irenegarciamarti.com/nods/climate%20services/drought%20monitoring/2019/08/30/Developing-a-Drought-Monitor-prototype-for-the-Netherlands.html) first, in which we explain why a Drought Monitor is necessary. In this second part, you can find a longer description of the technical aspects of the development of this prototype. 
 
 # Technicalities
 
